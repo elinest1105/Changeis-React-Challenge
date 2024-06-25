@@ -19,8 +19,8 @@ Before you begin, ensure you have met the following requirements:
 Clone the repository and install dependencies:
 
 ```bash
-git clone https://your-repository-url
-cd your-project-directory
+git clone https://github.com/elinest1105/Changeis-React-Challenge.git
+cd Changeis-React-Challenge
 npm install
 ```
 
